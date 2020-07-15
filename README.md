@@ -1,2 +1,2 @@
 # AltRightClick
-An AutoHotKey script that adds the Alt+Left Click => Right Click shortcut found on Chromebooks.
+An AutoHotKey script that adds the <kbd>Alt</kbd>+<kbd>Left Click</kbd> → <kbd>Right Click</kbd> shortcut found on Chromebooks.
